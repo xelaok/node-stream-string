@@ -1,0 +1,25 @@
+{
+  "name": "node-stream-string",
+  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Streamed ES6 template literal function",
+  "homepage": "https://github.com/xelaok/node-stream-string",
+  "license": "MIT",
+  "author": {
+    "name": "Alexander Kozlovich"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xelaok/node-stream-string.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xelaok/node-stream-string/issues"
+  },
+  "keywords": [
+    "stream",
+    "es6",
+    "react",
+    "ssr",
+    "renderToNodeStream"
+  ]
+}
