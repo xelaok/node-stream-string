@@ -1,7 +1,7 @@
 {
   "name": "node-stream-string",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Streamed ES6 template literal function",
   "homepage": "https://github.com/xelaok/node-stream-string",
   "license": "MIT",
